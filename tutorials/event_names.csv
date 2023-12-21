@@ -1,0 +1,41 @@
+event_type_id,event_description
+1.0,Pass
+2.0,Offside Pass
+3.0,Take On
+4.0,Foul
+5.0,Out
+6.0,Corner Awarded
+7.0,Tackle
+8.0,Interception
+10.0,Save
+11.0,Claim
+12.0,Clearance
+13.0,Miss
+15.0,Attempt Saved
+16.0,Goal
+17.0,Card
+18.0,Player Off
+19.0,Player on
+27.0,Start delay
+28.0,End delay
+30.0,End
+32.0,Period start
+40.0,Formation change
+41.0,Punch
+43.0,Deleted event
+44.0,Aerial
+45.0,Challenge
+49.0,Ball recovery
+50.0,Dispossessed
+51.0,Error
+52.0,Keeper pick-up
+55.0,Offside provoked
+56.0,Shield ball opp
+57.0,Foul throw-in
+59.0,Keeper Sweeper
+61.0,Ball touch
+67.0,50/50
+68.0,Referee Drop Ball
+74.0,Blocked Pass
+82.0,Control
+83.0,Attempted Tackle
