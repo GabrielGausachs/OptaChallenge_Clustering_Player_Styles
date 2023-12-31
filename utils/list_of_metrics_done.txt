@@ -1,0 +1,32 @@
+LIST OF METRICS WE'VE ALREADY DONE (NEED TO BE CHECKED)
+
+PASSES
+
+- Number of passes attempted (also per 90 min)
+- Number of assist and key passes (also per 90 min)
+- Mean pass distance
+- Total short passes and long passes (also per 90 min) *25 is the boundary
+- Line breaking passes (also per 90 min)
+- Last line breaking passes (also per 90 min)
+- Average expected pass completion (xP)
+- Passes above expected (PAx) per pass or per 100 passes    ----- PLOT -----
+- Passes above expected (PAx) in good oportunities taken per pass or per 100 passes
+
+SHOTS
+
+- Number of shots attempted (also per 90 min)
+- Average shot distance
+
+DRIBBLES
+
+- Number of take ons and number of succesfull take ons (also per 90 min)
+
+DEFENSIVE AND PHYSICAL
+
+- Pressure value (also per 90 min)  ----- PLOT -----
+- Acc mean, acc max, speed mean, speed max 
+- Distance covered (also per 90 min)
+
+POSITIONAL
+
+- % of positions in different field zones (defensive, left wing, right wing, center down, center up)    ----- PLOT -----
