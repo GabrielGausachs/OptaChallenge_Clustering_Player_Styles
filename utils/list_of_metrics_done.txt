@@ -1,5 +1,22 @@
 LIST OF METRICS WE'VE ALREADY DONE (NEED TO BE CHECKED)
 
+TO DO:
+
+- Mirar si es repeteixen equips en cada partit
+- Aplicar threshold minim passes en PAx per 100 passes
+- Pressure value chequear events que inclou 
+- Fer informe
+- Juntar datasets i gràfic de xuts de un jugador (creus/rodones goal/miss + % de xuts per zona)
+- gràfic de xuts per equip
+
+
+INFORME:
+
+- PAx per 100 passes
+- % Posició
+- Pressure value 
+
+
 PASSES
 
 - Number of passes attempted (also per 90 min)
@@ -9,6 +26,8 @@ PASSES
 - Line breaking passes (also per 90 min)
 - Last line breaking passes (also per 90 min)
 - Average expected pass completion (xP)
+
+*threshold minim passes*
 - Passes above expected (PAx) per pass or per 100 passes    ----- PLOT -----
 - Passes above expected (PAx) in good oportunities taken per pass or per 100 passes
 
